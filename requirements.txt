@@ -1,0 +1,5 @@
+rmn
+opencv-python
+mss
+numpy
+pywin32
