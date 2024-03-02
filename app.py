@@ -18,7 +18,7 @@ m = RMN()
 
 # Use MSS to capture the screen
 with mss.mss() as sct:
-    monitor = {"top": 0, "left": 0, "width": 1000, "height": 1000}
+    monitor = {"top": 45, "left": 0, "width": 1000, "height": 1000}
     
     # Main loop to continuously capture the screen and detect emotions
     while True:
