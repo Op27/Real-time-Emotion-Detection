@@ -6,7 +6,7 @@ The Real-time Emotion Detection Application is a pioneering tool designed to enh
 ## Demo 
 https://github.com/Op27/Real-time-Emotion-Detection/assets/39921621/9a39413e-5f56-4a5f-bf09-320c69a46621
 
-Original video source by the [UN UAE](https://www.youtube.com/watch?v=JrQgO5VjaZE)
+Original video sourced by the [UN UAE](https://www.youtube.com/watch?v=JrQgO5VjaZE)
 
 
 
