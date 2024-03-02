@@ -3,6 +3,10 @@
 ## Overview
 The Real-time Emotion Detection Application is a pioneering tool designed to enhance online interactions by providing instant emotional feedback. Utilizing the cutting-edge Residual Masking Network (RMN) model, this application captures screen content, identifies emotions from faces displayed, and overlays the detected emotions with corresponding text labels and colors. This innovative approach aims to foster a deeper understanding and empathy among participants in online meetings, virtual classrooms, and beyond.
 
+## Demo 
+https://github.com/Op27/Real-time-Emotion-Detection/assets/39921621/9a39413e-5f56-4a5f-bf09-320c69a46621
+
+
 ## Features
 - Real-time emotion detection from screen captures.
 - Supports a wide range of emotions for comprehensive analysis.
