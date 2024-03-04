@@ -9,7 +9,6 @@ https://github.com/Op27/Real-time-Emotion-Detection/assets/39921621/9a39413e-5f5
 Original video sourced by the [UN UAE](https://www.youtube.com/watch?v=JrQgO5VjaZE)
 
 
-
 ## Features
 - Real-time emotion detection from screen captures.
 - Supports a wide range of emotions for comprehensive analysis.
@@ -29,6 +28,13 @@ Offers mental health professionals insights into patients' emotional states duri
 **📞Customer Service and Support:**
 Enhances customer satisfaction by analyzing emotions during service calls or support sessions, enabling service representatives to adjust their approaches and responses to better meet customer needs and resolve issues empathetically.
 
+## Privacy Considerations and User Consent
+
+When using the Real-time Emotion Detection Application, it is imperative to prioritize the privacy and consent of all individuals involved. This application has the capability to capture emotions from faces in real-time, which may include individuals who have not directly interacted with the software. 
+
+As a user of this application, you are responsible for ensuring that you have explicit consent from anyone whose emotions you capture and analyze. Consent is a fundamental aspect of privacy and ethical consideration, and it is your duty to respect the rights and privacy of others. Failure to obtain consent may violate personal privacy rights and could lead to legal repercussions. 
+
+Always use this application in a manner that is respectful and considerate of others' privacy.
 
 ## Implementation Guide
 
