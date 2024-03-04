@@ -26,7 +26,8 @@ Improves engagement and understanding of participants' emotional responses in re
 Offers mental health professionals insights into patients' emotional states during telehealth sessions, aiding in the identification of trends or moments needing intervention, thereby supporting more responsive care.
 
 **📞Customer Service and Support:**
-Enhances customer satisfaction by analyzing emotions during service calls or support sessions, enabling service representatives to adjust their approaches and responses to better meet customer needs and resolve issues empathetically.
+Enhances customer satisfaction by analyzing emotions during service calls or support sessions, enabling service representatives to adjust their approaches and responses to better meet customer needs and resolve issues empathetically.  
+&nbsp;
 
 ## Privacy Considerations and User Consent
 
@@ -35,6 +36,8 @@ When using the Real-time Emotion Detection Application, it is imperative to prio
 As a user of this application, you are responsible for ensuring that you have explicit consent from anyone whose emotions you capture and analyze. Consent is a fundamental aspect of privacy and ethical consideration, and it is your duty to respect the rights and privacy of others. Failure to obtain consent may violate personal privacy rights and could lead to legal repercussions. 
 
 Always use this application in a manner that is respectful and considerate of others' privacy.
+&nbsp;  
+&nbsp;
 
 ## Implementation Guide
 
@@ -63,10 +66,11 @@ python app.py
 ```
 
 Follow the on-screen instructions to begin capturing emotions in real-time.
-
+&nbsp;  
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+&nbsp;  
 
 ## Acknowledgments
 - The RMN library developers for their outstanding work in the field of emotion detection.
